@@ -67,7 +67,7 @@ function App() {
             <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
               <iframe
                 className="absolute top-0 left-0 w-full h-full"
-                src="https://dexscreener.com/solana/YOUR_TOKEN_ADDRESS?embed=1&theme=dark&trades=0&info=0"
+                src="https://dexscreener.com/solana/?embed=1&theme=dark&trades=0&info=0"
                 title="DexScreener Chart"
               />
             </div>
